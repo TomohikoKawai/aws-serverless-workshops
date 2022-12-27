@@ -1,6 +1,3 @@
-# Version1.1
-modify tomohkaj.md
-
 # Version1.0
 
 # Wild Rydes Serverless Workshops
